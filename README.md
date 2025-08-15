@@ -1,3 +1,5 @@
+# Running Server on : http://16.176.198.244:3000/
+# Jira Dashbaord URL  : https://connect-team-ugl4mq36.atlassian.net/jira/software/projects/SCRUM/boards/1/timeline?atlOrigin=eyJpIjoiNjU3NDc0NDBiNGNhNGMxYTljMmJlMDY0ZDg5MTIxMjQiLCJwIjoiaiJ9 
 # Online Learning Progress Tracker
 
 An academic tool that visualizes learners' progression through online courses by logging module completions, quiz results, learning gaps, and generating progress reports and certificates. Encourages self-paced and performance-driven learning.
@@ -155,7 +157,7 @@ npm start
 
 ## 🔐 Admin Login Credentials
 
-**Email**: admin@gmail.com  
+**Email**: admin1@gmail.com  
 **Password**: admin123  
 **Role**: Administrator
 
